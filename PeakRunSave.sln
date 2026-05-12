@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{33CD3205-5A7B-4101-92E9-7AEB771CCA5B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeakRunSave", "src\PeakRunSave\PeakRunSave.csproj", "{99AF010A-1CDC-439C-8D7A-C6F7C3C9F44E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99AF010A-1CDC-439C-8D7A-C6F7C3C9F44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AF010A-1CDC-439C-8D7A-C6F7C3C9F44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AF010A-1CDC-439C-8D7A-C6F7C3C9F44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AF010A-1CDC-439C-8D7A-C6F7C3C9F44E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{99AF010A-1CDC-439C-8D7A-C6F7C3C9F44E} = {33CD3205-5A7B-4101-92E9-7AEB771CCA5B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92F6D475-68F0-44D6-A1AF-A28F5948E381}
+	EndGlobalSection
+EndGlobal
